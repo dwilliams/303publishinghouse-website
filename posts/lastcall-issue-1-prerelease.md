@@ -7,12 +7,13 @@
 .. description: LASTCALL issue 1 prerelease announcement.
 .. type: text
 
-Put the description of the comic here.  Include a link to the LASTCALL website.
+<img src="/galleries/LASTCALL-1/dangerzone.thumbnail.png" style="float: left; margin-right: 10px;" />
+<p>Put the description of the comic here.  Include a link to the LASTCALL website.</p>
+<div style="clear: both;"></div>
 
 <!-- TEASER_END -->
 
-Put the image from the promo cards here.  Make it link to the LASTCALL website (if possible).
-
+<div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="DHFKGCVHF7E26" />
@@ -25,3 +26,8 @@ Put the image from the promo cards here.  Make it link to the LASTCALL website (
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal" />
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+</div>
+
+<div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
+<img src="/galleries/LASTCALL-1/dangerzone.png" />
+<div />
