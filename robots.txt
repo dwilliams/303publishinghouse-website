@@ -1,0 +1,4 @@
+Sitemap: http://www.303publishinghouse.com/sitemapindex.xml
+
+User-Agent: *
+Host: www.303publishinghouse.com
