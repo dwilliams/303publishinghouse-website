@@ -12,11 +12,11 @@
 From a bar story cobbled together over drinks in Las Vegas bar, into your hands arrives the story of a mild mannered
 bartender turned superhero defending truth, justice and the inebriated way!
 
-Author A.P. Delchi and artist James Liswed present the tale of "LASTCALL" , in which an ordinary Las Vegas bartender
+Author A.P. Delchi and artist James Liswed present the tale of LASTCALL, in which an ordinary Las Vegas bartender
 is endowed with amazing powers by way of an alien bottle opener whisked away from area 51 in a series of events all too
 familiar to anyone who has spent time in sin city. Set to the music of local sensation Thee Swank Bastards, the
 adventure follows LASTCALL with his faithful friends Al "The Mountain" McMurphy, Sarah "The Brains of the outfit"
-Smalls, and a Jager laden ex-hacker for hire only known as "Delchi" as they raise their glasses to the solemn oath of
+Smalls, and a Jager laden ex-hacker for hire, only known as Delchi, as they raise their glasses to the solemn oath of
 their calling: 
 
 <div style="clear: both;"></div>
@@ -24,9 +24,9 @@ their calling:
 <!-- TEASER_END -->
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
-Where there are sober people , there will be drinks.<br/>
+Where there are sober people, there will be drinks.<br/>
 Where there are drunk people, they will live to party another day.<br/>
-Where there are anti-party people , they will be silenced<br/>
+Where there are anti-party people, they will be silenced<br/>
 Where there is sorrow, there will be liquor<br/>
 Where there are hangovers, there will be burritos and Gatorade<br/>
 Where there is unemployment, there will be cheap drinks<br/>
@@ -37,7 +37,7 @@ I am the hero known as LASTCALL!<br/>
 </div>
 
 
-Volume #1 , Issue #1 is available in both standard comics size and a limited edition magazine size for you back to the
+LASTCALL Issue #1 is available in both standard comics size and a limited edition magazine size for you back to the
 pillow fort days of comics, soda pop, science fiction, and rock & roll!
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
