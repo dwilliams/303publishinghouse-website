@@ -136,7 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("http://lastcall.vegas/", "LASTCALL"),
     ),
 }
 
