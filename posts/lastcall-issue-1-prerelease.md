@@ -53,9 +53,9 @@ for you back to the pillow fort days of comics, soda pop, science fiction, and r
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal" />
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-</div>
-
+<br/><br/>
 Also, join in the fray over on Reddit: [https://www.reddit.com/r/LASTCALLcomic/](https://www.reddit.com/r/LASTCALLcomic/)
+</div>
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
 <img src="/galleries/LASTCALL-1/dangerzone.png" />
