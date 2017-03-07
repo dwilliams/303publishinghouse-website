@@ -23,6 +23,7 @@ their calling:
 
 <!-- TEASER_END -->
 
+```
 "Where there are sober people , there will be drinks.
 Where there are drunk people, they will live to party another day.
 Where there are anti-party people , they will be silenced
@@ -33,6 +34,7 @@ And there there is sunlight, there will be a dark, air conditioned bar.
 By the power of the GROGNOX I swear this oath : 
 Ergo Bibamus to one and all!
 I am the hero known as LASTCALL!"
+```
 
 Volume #1 , Issue #1 is available in both standard comics size and a limited edition magazine size for you back to the
 pillow fort days of comics, soda pop, science fiction, and rock & roll!
