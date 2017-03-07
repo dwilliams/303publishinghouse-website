@@ -37,8 +37,8 @@ I am the hero known as [LASTCALL](http://lastcall.vegas)!<br/>
 </div>
 
 
-[LASTCALL](http://lastcall.vegas) Issue #1 is available in both standard comics size and a limited edition magazine size for you back to the
-pillow fort days of comics, soda pop, science fiction, and rock & roll!
+[LASTCALL](http://lastcall.vegas) Issue #1 is available in both standard comics size and a limited edition magazine size
+for you back to the pillow fort days of comics, soda pop, science fiction, and rock & roll!
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -55,7 +55,7 @@ pillow fort days of comics, soda pop, science fiction, and rock & roll!
 </form>
 </div>
 
-Also, join in the fray over on Reddit: https://www.reddit.com/r/LASTCALLcomic/
+Also, join in the fray over on Reddit: [https://www.reddit.com/r/LASTCALLcomic/](https://www.reddit.com/r/LASTCALLcomic/)
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
 <img src="/galleries/LASTCALL-1/dangerzone.png" />
