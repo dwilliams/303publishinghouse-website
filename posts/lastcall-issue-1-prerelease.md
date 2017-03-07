@@ -33,7 +33,7 @@ Where there is unemployment, there will be cheap drinks<br/>
 And there there is sunlight, there will be a dark, air conditioned bar.<br/>
 By the power of the GROGNOX I swear this oath:<br/>
 Ergo Bibamus to one and all!<br/>
-I am the hero known as [LASTCALL](http://lastcall.vegas)!<br/>
+I am the hero known as LASTCALL!<br/>
 </div>
 
 
