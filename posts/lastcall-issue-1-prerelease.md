@@ -12,12 +12,12 @@
 From a bar story cobbled together over drinks in Las Vegas bar, into your hands arrives the story of a mild mannered
 bartender turned superhero defending truth, justice and the inebriated way!
 
-Author A.P. Delchi and artist James Liswed present the tale of LASTCALL, in which an ordinary Las Vegas bartender
-is endowed with amazing powers by way of an alien bottle opener whisked away from Area 51 in a series of events all too
-familiar to anyone who has spent time in sin city. Set to the music of local sensation Thee Swank Bastards, the
-adventure follows LASTCALL with his faithful friends Al "The Mountain" McMurphy, Sarah "The Brains of the outfit"
-Smalls, and a Jager laden ex-hacker for hire, only known as Delchi, as they raise their glasses to the solemn oath of
-their calling: 
+Author A.P. Delchi and artist James Liswed present the tale of [LASTCALL](http://lastcall.vegas), in which an ordinary
+Las Vegas bartender is endowed with amazing powers by way of an alien bottle opener whisked away from Area 51 in a
+series of events all too familiar to anyone who has spent time in sin city. Set to the music of local sensation Thee
+Swank Bastards, the adventure follows [LASTCALL](http://lastcall.vegas) with his faithful friends Al "The Mountain"
+McMurphy, Sarah "The Brains of the outfit" Smalls, and a Jager laden ex-hacker for hire, only known as Delchi, as they
+raise their glasses to the solemn oath of their calling: 
 
 <div style="clear: both;"></div>
 
@@ -33,14 +33,14 @@ Where there is unemployment, there will be cheap drinks<br/>
 And there there is sunlight, there will be a dark, air conditioned bar.<br/>
 By the power of the GROGNOX I swear this oath:<br/>
 Ergo Bibamus to one and all!<br/>
-I am the hero known as LASTCALL!<br/>
+I am the hero known as [LASTCALL](http://lastcall.vegas)!<br/>
 </div>
 
 
-LASTCALL Issue #1 is available in both standard comics size and a limited edition magazine size for you back to the
+[LASTCALL](http://lastcall.vegas) Issue #1 is available in both standard comics size and a limited edition magazine size for you back to the
 pillow fort days of comics, soda pop, science fiction, and rock & roll!
 
-http://lastcall.vegas https://www.reddit.com/r/LASTCALLcomic/
+ https://www.reddit.com/r/LASTCALLcomic/
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
