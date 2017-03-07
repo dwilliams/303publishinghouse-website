@@ -54,7 +54,7 @@ for you back to the pillow fort days of comics, soda pop, science fiction, and r
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 <br/><br/>
-Also, join in the fray over on Reddit: [https://www.reddit.com/r/LASTCALLcomic/](https://www.reddit.com/r/LASTCALLcomic/)
+Also, join in the fray over on Reddit: <a href="https://www.reddit.com/r/LASTCALLcomic/">https://www.reddit.com/r/LASTCALLcomic/</a>
 </div>
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
