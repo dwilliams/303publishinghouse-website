@@ -58,5 +58,5 @@ Also, join in the fray over on Reddit: <a href="https://www.reddit.com/r/LASTCAL
 </div>
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;" >
-<img src="/galleries/LASTCALL-1/dangerzone.png" />
+<a href="http://lastcall.vegas"><img src="/galleries/LASTCALL-1/dangerzone.png" /></a>
 <div />
